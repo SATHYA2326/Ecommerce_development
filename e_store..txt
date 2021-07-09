@@ -7,3 +7,4 @@ Steps to open the folder in netbeans:
   5.For Site Root, browse to the folder where you have extracted these files.
   6.Click on finish.
   7.The folder will open in netbeans.
+  8.All php files can open by this steps.
