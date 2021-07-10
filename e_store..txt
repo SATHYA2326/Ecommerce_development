@@ -10,4 +10,4 @@ Steps to open the folder in netbeans:
   8.All php files can open by this steps.
   9. Adding Amazon_pay feature.
   10. Adding gift vouchers features.
-  11.success page.
+  11.success page 100 users.
